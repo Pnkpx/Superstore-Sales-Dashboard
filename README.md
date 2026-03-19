@@ -74,10 +74,10 @@ An interactive dashboard was built in Google Sheets to present key insights in a
 ```
 superstore-sales-dashboard/
 │
-├── sales_dashboard.png
+├── README.md
 ├── sales_dashboard.pdf
-├── sales_dashboard_clean_data.csv
-└── README.md
+├── sales_dashboard.png
+└── sales_dashboard_clean_data.csv
 ```
 
 ---
